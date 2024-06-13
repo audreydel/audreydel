@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img src="[gif url]([https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html?embed=true](https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html?embed=true))" alt="Your image description" width="200">
+      <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" alt="Your image description" width="200">
     </td>
   </tr>
 </table>
