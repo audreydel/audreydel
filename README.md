@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤗 , I'm Audrey!</h1>
+<h1 align="center">Hi 🤗 , I'm Audrey!🌺</h1>
 <h3 align="center">🌟 I'm passionate about all things Software Engineering 🌟</h3>
 
 🫧 I’m currently a Software Engineer intern at **Dell Technologies**
