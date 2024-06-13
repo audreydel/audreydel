@@ -5,7 +5,7 @@
   <tr>
     <td>       
       <ul>
-        <p> 🫧 I’m currently a Software Engineer intern at **Dell Technologies**</p>
+        <p> 🫧 I’m currently a Software Engineer intern at Dell Technologies </p>
 
   🐚 Take a look at the projects on my [profile](https://github.com/audreydel)
 
@@ -15,8 +15,9 @@
       </ul>
     </td>
     <td>
-      <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" alt="Your image description" width="200">
+      <img>![lofi-studying](https://github.com/audreydel/audreydel/assets/124182372/503d675d-398c-40ca-83ec-bab10bd79277)
     </td>
+
   </tr>
 </table>
 
