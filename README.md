@@ -15,7 +15,8 @@
       </ul>
     </td>
     <td>
-      <img>![lofi-studying](https://github.com/audreydel/audreydel/assets/124182372/503d675d-398c-40ca-83ec-bab10bd79277)
+      <img> <img width="653" alt="Screenshot 2024-06-13 at 14 30 00" src="https://github.com/audreydel/audreydel/assets/124182372/c72ab3cc-7898-48e0-9a60-6fb065b697b3">
+</img>
     </td>
 
   </tr>
