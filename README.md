@@ -15,22 +15,11 @@
       </ul>
     </td>
     <td>
-      <img src="[gif url](https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html?embed=true)" alt="Your image description" width="200">
+      <img src="[gif url]([https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html?embed=true](https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html?embed=true))" alt="Your image description" width="200">
     </td>
   </tr>
 </table>
 
-
-<h1 align="center">Hi 🤗 , I'm Audrey!🌺</h1>
-<h3 align="center">🌟 I'm passionate about all things Software Engineering 🌟</h3>
-
-🫧 I’m currently a Software Engineer intern at **Dell Technologies**
-
-🐚 Take a look at the projects on my [profile](https://github.com/audreydel)
-
-🩵 You can find updates about me on my [LinkedIn](www.linkedin.com/in/audreydelrosa)
-
-🪼 Feel free to reach out to my email **delrosaa@tcd.ie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
