@@ -5,7 +5,7 @@
   <tr>
     <td width="500">       
       <ul>
-         <p>💠 I’m currently a Software Engineer intern @ Dell 
+         <p>💠 I’m currently a Software Engineer Intern @ Dell 
 
 
   🐚 Take a look at the projects on my [**profile**](https://github.com/audreydel)
