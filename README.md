@@ -12,7 +12,7 @@
 
 🩵 You can find updates about me on my [**LinkedIn**](www.linkedin.com/in/audreydelrosa)
 
-🪼 Feel free to reach out to my email **delrosaa@tcd.ie**
+🪼 Feel free to reach out through email **delrosaa@tcd.ie**
 </p>
       </ul>
     </td>
