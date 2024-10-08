@@ -5,7 +5,7 @@
   <tr>
     <td width="500">       
       <ul>
-         <p>💠 I’m currently a Software Engineer Intern @ Dell 
+         <p>💠 I'm a 3rd year Computer Science and Business Student at Trinity College Dublin
 
 
   🐚 Take a look at the projects on my [**profile**](https://github.com/audreydel)
