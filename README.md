@@ -1,11 +1,11 @@
-<h1 align="center">🇮🇪 Hi I'm Audrey! 🌺</h1>
-<h3 align="center">✨ I'm passionate about all things Software Engineering ✨</h3>
+<h1 align="center">Hey I'm Audrey!</h1>
+<h3 align="center">Excited about making a meaningful impact through ML/AI or Full Stack Development, wherever I work.</h3>
 
 <table>
   <tr>
     <td width="500">       
       <ul>
-         <p>💠 I'm a 3rd year Computer Science and Business Student at Trinity College Dublin
+         <p>💠 I'm a final year year Computer Science and Business Student at Trinity College Dublin
 
 
   🐚 Take a look at the projects on my [**profile**](https://github.com/audreydel)
